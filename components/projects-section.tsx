@@ -34,6 +34,24 @@ const projects = [
     ],
     link: "#",
   },
+   {
+    title: "Portfolio",
+    description: "My personal portfolio website to showcase my projects and skills.",
+    tags: ["TypeScript", "Node.js"],
+    imagePaths: [
+      "Projects/Portfolio/Screenshot 2026-05-22 114741.png",
+    ],
+    link: "#",
+  },
+   {
+    title: "JethersCornettos",
+    description: "My idea of my POS for ice cream shop, Jether's Cornettos.",
+    tags: ["TypeScript", "Node.js", "Supabase"],
+    imagePaths: [
+      "Projects/JethersCornettos/Screenshot 2026-05-22 114830.png",
+    ],
+    link: "#",
+  },
 ]
 
 export function ProjectsSection() {

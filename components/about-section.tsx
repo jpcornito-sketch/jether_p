@@ -69,7 +69,7 @@ export function AboutSection() {
                 <div className="text-sm text-muted-foreground">Years Coding</div>
               </div>
               <div className="text-center p-4 bg-card rounded-lg border border-border">
-                <div className="text-2xl md:text-3xl font-bold text-primary">10+</div>
+                <div className="text-2xl md:text-3xl font-bold text-primary">5</div>
                 <div className="text-sm text-muted-foreground">Projects</div>
               </div>
               <div className="text-center p-4 bg-card rounded-lg border border-border">
