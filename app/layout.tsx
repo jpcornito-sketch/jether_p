@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Jether Cornito | Portfolio',
+  title: 'Jether Cornitos | Portfolio',
   description: '3rd Year Computer Science Student at University of Bohol - Portfolio showcasing projects and skills',
   generator: 'v0.app',
   icons: {
